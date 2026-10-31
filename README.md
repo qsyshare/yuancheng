@@ -114,7 +114,7 @@ https://go.microsoft.com/fwlink/?linkid=2088631
 准备文件： 只需将以下两个文件复制到新 Windows 10 电脑的同一个文件夹下（例如放到 D:\QsyRemote 或桌面）：
 
 QsyRemote.exe（主程序）
-cloudflared.exe（官方穿透组件，就在项目根目录下）
+cloudflared.exe（改名成 qsyshare.exe）（cf官方穿透组件，就在项目根目录下）
 
 双击启动：
 
