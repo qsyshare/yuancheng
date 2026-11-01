@@ -1,5 +1,6 @@
 # QsyRemote 跨平台极速远程协助系统
 
+免责声明：本软件仅供个人合法远程管理、技术交流与亲友电脑协助使用，请勿用于任何非法渗透或恶意控制行为。
 
 > **GitHub 仓库**：[https://github.com/qsyshare/yuancheng](https://github.com/qsyshare/yuancheng)
 
