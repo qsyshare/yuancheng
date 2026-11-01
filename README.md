@@ -1,5 +1,6 @@
 # QsyRemote 跨平台极速远程协助系统
 
+
 > **GitHub 仓库**：[https://github.com/qsyshare/yuancheng](https://github.com/qsyshare/yuancheng)
 
 本项目专为**极速性能、超低延迟、强安全性**打造，采用**纯 C++17 核心 + 运行时动态探测适配架构**，向下兼容 **Windows 7** 与 **macOS 老旧 Intel** 设备，向上充分榨干 **Windows 10/11 (DXGI)** 与 **macOS Apple Silicon (ScreenCaptureKit)** 的硬件潜能。
@@ -181,6 +182,11 @@ tcp://127.0.0.1:8920
 ## 如果使用隧道这里免费提供一个公网域名与专属Tunnel Token：（如果多用户同时使用可能会串台，所有建议创建自己的使用，虽然优化了但没有进行验证。）
 公网域名：ycaa.worldss.qzz.io
 专属Tunnel Token：eyJhIjoiOThhODAzMWRmMDBlY2IzYTllN2M5YzgwMTc1NGY2OTgiLCJ0IjoiN2E3NWIzODctN2NmNy00M2I4LWFhMzktNTVjNjM2ZmEyNzQzIiwicyI6IlpXSm1OelZqWVRBdFlURXdZaTAwWmpFNExUa3laVFV0WlRrNFpHUmtaalk0TlRabCJ9：
+
+## Telegram
+https://t.me/qsyremote
+
+<img width="1055" height="1055" alt="0D466D6B-E0E7-4142-A4B3-8D534939E95D_1_201_a" src="https://github.com/user-attachments/assets/ebacc7c5-7088-4409-b5a8-377a8c071c4d" />
 
 
   
