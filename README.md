@@ -186,7 +186,7 @@ tcp://127.0.0.1:8920
 ## Telegram
 https://t.me/qsyremote
 
-<img width="1055" height="1055" alt="0D466D6B-E0E7-4142-A4B3-8D534939E95D_1_201_a" src="https://github.com/user-attachments/assets/ebacc7c5-7088-4409-b5a8-377a8c071c4d" />
+<img width="200" height="200" alt="0D466D6B-E0E7-4142-A4B3-8D534939E95D_1_201_a" src="https://github.com/user-attachments/assets/ebacc7c5-7088-4409-b5a8-377a8c071c4d" />
 
 
   
