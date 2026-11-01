@@ -177,4 +177,10 @@ tcp://127.0.0.1:8920
 在 Worker 页面左侧点击 KV -> 创建命名空间，名称填 DEVICE_SESSIONS。
 回到刚才创建的 Worker -> 点击 设置 (Settings) -> 变量和机密 (Variables and Secrets)。
 在 KV 命名空间绑定 中添加：变量名称填 DEVICE_SESSIONS，下拉选择刚才创建的 KV，保存并重新部署即可。
+
+## 如果使用隧道这里免费提供一个公网域名与专属Tunnel Token：（如果多用户同时使用可能会串台，所有建议创建自己的使用，虽然优化了但没有进行验证。）
+公网域名：ycaa.worldss.qzz.io
+专属Tunnel Token：eyJhIjoiOThhODAzMWRmMDBlY2IzYTllN2M5YzgwMTc1NGY2OTgiLCJ0IjoiN2E3NWIzODctN2NmNy00M2I4LWFhMzktNTVjNjM2ZmEyNzQzIiwicyI6IlpXSm1OelZqWVRBdFlURXdZaTAwWmpFNExUa3laVFV0WlRrNFpHUmtaalk0TlRabCJ9：
+
+
   
